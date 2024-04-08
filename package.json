@@ -1,0 +1,15 @@
+{
+  "name": "typescript-esst-2428199",
+  "version": "1.0.0",
+  "description": "This is the repository for the LinkedIn Learning course TypeScript Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "5.4.4"
+  }
+}
