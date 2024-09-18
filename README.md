@@ -1,4 +1,12 @@
 # TypeScript Essential Training
+## IMPORTANT
+To run a TypeScript file using Node.js:
+- Install the [ts-node](https://www.npmjs.com/package/ts-node) npm package globally:
+  `npm i -g ts-node`
+- In your terminal, go to the directory that has the TS file you want to run (like `app.ts`) and so something like elow:
+  `ts-node app.ts`
+
+## Details
 This is the repository for the LinkedIn Learning course TypeScript Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![TypeScript Essential Training][lil-thumbnail-url] 
